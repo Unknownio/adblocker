@@ -257,7 +257,8 @@ const defaultFilters = [
 "*://*.track.bestgames2018.net/*",
 "*://*.ostlon.com/*",
 "*://*.enlisted.net/*",
-"*://*.xfullclearsafex.com/*"
+"*://*.xfullclearsafex.com/*",
+"*://*.offerimage.com/*"
 ]
 
 chrome.webRequest.onBeforeRequest.addListener(
