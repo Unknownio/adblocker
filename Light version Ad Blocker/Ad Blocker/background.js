@@ -258,7 +258,13 @@ const defaultFilters = [
 "*://*.ostlon.com/*",
 "*://*.enlisted.net/*",
 "*://*.xfullclearsafex.com/*",
-"*://*.offerimage.com/*"
+"*://*.offerimage.com/*",
+"*://*.static.a-ads.com/*",
+"*://*.metrics.data.hicloud.com/*",
+"*://*.metrics1.data.hicloud.com/*",
+"*://*.metrics2.data.hicloud.com/*",
+"*://*.metrics5.data.hicloud.com/*",
+"*://*.metrics-dra.dt.hicloud.com/*"
 ]
 
 chrome.webRequest.onBeforeRequest.addListener(
