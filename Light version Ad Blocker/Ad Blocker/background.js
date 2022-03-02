@@ -282,7 +282,9 @@ const defaultFilters = [
 "*://*.testinghq.xyz/*",
 "*://*.icrypto.media/*",
 "*://*.rr5---sn-nv47lnly.googlevideo.com/*",
-"*://*.rr2---sn-uxax35cxa-n32l.googlevideo.com/*"
+"*://*.rr2---sn-uxax35cxa-n32l.googlevideo.com/*",
+"*://*.googleads.g.doubleclick.net/*",
+"*://*.yt3.ggpht.com/*"
 ]
 
 chrome.webRequest.onBeforeRequest.addListener(
