@@ -264,7 +264,25 @@ const defaultFilters = [
 "*://*.metrics1.data.hicloud.com/*",
 "*://*.metrics2.data.hicloud.com/*",
 "*://*.metrics5.data.hicloud.com/*",
-"*://*.metrics-dra.dt.hicloud.com/*"
+"*://*.metrics-dra.dt.hicloud.com/*",
+"*://*.canyoublockit.com/wp-content/plugins/ultimate-popunder/assets/*",
+"*://*.ws-na.amazon-adsystem.com/*",
+"*://*.getinstallmentloanbtc.org/*",
+"*://*.hpcrs.declineryb.com/*",
+"*://*.getsmartyapp.com/*",
+"*://*.maroopush.com/*",
+"*://*.eu.spfgood.click/*",
+"*://*.lh6.googleusercontent.com/*",
+"*://*.revvracing.com/*",
+"*://*.nonbasekick.com/*",
+"*://*.mealplays.com/healthy-eating/*",
+"*://*.ww2.demonslayerepisodes.com/demon-slayer-season-2-episode-10-english-subbed-watch-online/ready/*",
+"*://*.billance.com/*",
+"*://*.chingari.io/*",
+"*://*.testinghq.xyz/*",
+"*://*.icrypto.media/*",
+"*://*.rr5---sn-nv47lnly.googlevideo.com/*",
+"*://*.rr2---sn-uxax35cxa-n32l.googlevideo.com/*"
 ]
 
 chrome.webRequest.onBeforeRequest.addListener(
