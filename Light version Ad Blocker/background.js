@@ -327,7 +327,10 @@ const defaultFilters = [
 "*://*.rr6---sn-nv47lnls.googlevideo.com/*",
 "*://*.youtube.com/ytscframe/*",
 "*://*.youtube.com/pagead/*",
-"*://*.youtube.com/api/stats/*"
+"*://*.youtube.com/api/stats/*",
+"*://*.adservice.google.ru/*",
+"*://*.adblock-tester.com/site.webmanifest?v=qAJrlpKQ8p*",
+"*://*.adblock-tester.com/banners/pr_advertising_ads_banner.swf*"
 
 ]
 
