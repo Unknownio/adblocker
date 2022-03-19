@@ -54,7 +54,6 @@ const defaultFilters = [
 "*://*.live.maroopush.com/*",
 "*://*.tonnection.xyz/*",
 "*://*.steamcdn-a.akamaihd.net/*",
-"*://*.stats.wp.com/*",
 "*://*.rauch.cc/*",
 "*://*.videoranked.com/*",
 "*://*.worldstatistics.live/*",
@@ -646,7 +645,13 @@ const defaultFilters = [
 "*://*.r2---sn-uxax35cxa-n32l.googlevideo.com/*",
 "*://*.stats.wp.com/*",
 "*://*.lucidlydiscretion.com/*",
-"*://*.good.sooth.online/*"
+"*://*.good.sooth.online/*",
+"*://*.lombin.com/*",
+"*://*.waust.at/*",
+"*://*.celeritascdn.com/*",
+"*://*.dmz3nd5oywtsw.cloudfront.net/*",
+"*://*.youradexchange.com/*",
+"*://*.unnist.com/*"
 ]
 chrome.webRequest.onBeforeRequest.addListener(
     function(details) { return { cancel: true }},
