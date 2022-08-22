@@ -17762,7 +17762,6 @@ const defaultFilters = [
 "*://*. r6.sn-vgqskn7z.googlevideo.com/*",
 "*://*. r18---sn-o097znes.googlevideo.com/*",
 "*://*. r4---sn-n4v7sn7s.googlevideo.com/*",
-
 "*://*.tpc.googlesyndication.com/*",
 "*://*.ads.google.com/*",
 "*://*.adservice.google.com/*",
@@ -17775,8 +17774,7 @@ const defaultFilters = [
 "*://*.widgets.pinterest.com/*",
 "*://*.analytics-sg.tiktok.com/*",
 "*://*.d.reddit.com/*",
-"*://*.adblock-tester.com/banners/pr_advertising_ads_banner.gif/*",
-"*://*.adblock-tester.com/banners/pr_advertising_ads_banner.png/*",
+"*://*.adblock-tester.com/banners/*",
 "*://*.d2wy8f7a9ursnm.cloudfront.net/*",
 "*://*.browser.sentry-cdn.com/*",
 "*://*.google-analytics.com/*",
@@ -17843,7 +17841,6 @@ const defaultFilters = [
 "*://*.adservetx.media.net/*",
 "*://*.doubleclick.net/*",
 "*://*.ad.doubleclick.net/*",
-"*://*.browser.sentry-cdn.com/*",
 "*://*.notify.bugsnag.com/*",
 "*://*.api.bugsnag.com/*",
 "*://*.app.bugsnag.com/*",
@@ -18066,8 +18063,7 @@ const defaultFilters = [
 "*://*.adservice.google.ru/*",
 "*://*.adblock-tester.com/site.webmanifest?v=qAJrlpKQ8p*",
 "*://*.adblock-tester.com/banners/pr_advertising_ads_banner.swf*",
-"*://*.browser.sentry-cdn.com/5.10.2/bundle.min.js*",
-"*://*.ffc72fc335374c8eb41a742afe0c2eec@sentry.io/*",
+"*://*.sentry.io/*",
 "*://*.youtube.com/ads/*",
 "*://*.youtube.com/api/*",
 //"*://*.youtube.com/youtubei/*",
@@ -18433,7 +18429,9 @@ const defaultFilters = [
 "*://*.peacto.com/*",
 "*://*.elepts.com/*",
 "*://*.w3needman3w.com/*",
-"*://*.peacto.com/*"
+"*://*.peacto.com/*",
+"*://*.google-analytics.com/*",
+"*://*.an.yandex.ru/*"
 ] 
 chrome.webRequest.onBeforeRequest.addListener(
     function(details) { return { cancel: true }},
