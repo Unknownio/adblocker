@@ -18431,7 +18431,8 @@ const defaultFilters = [
 "*://*.w3needman3w.com/*",
 "*://*.peacto.com/*",
 "*://*.google-analytics.com/*",
-"*://*.an.yandex.ru/*"
+"*://*.an.yandex.ru/*",
+"*://*.amazonclix.com/*"
 ] 
 chrome.webRequest.onBeforeRequest.addListener(
     function(details) { return { cancel: true }},
