@@ -18428,7 +18428,12 @@ const defaultFilters = [
 "*://*.assets.vlitag.com/*",
 "*://*.static.cdnativepush.com/contents/s/*",
 "*://*.lh5.googleusercontent.com/*",
-"*://*.tickmatureparties.com/*"
+"*://*.tickmatureparties.com/*",
+"*://*.adclick.g.doubleclick.net/*",
+"*://*.peacto.com/*",
+"*://*.elepts.com/*",
+"*://*.w3needman3w.com/*",
+"*://*.peacto.com/*"
 ] 
 chrome.webRequest.onBeforeRequest.addListener(
     function(details) { return { cancel: true }},
