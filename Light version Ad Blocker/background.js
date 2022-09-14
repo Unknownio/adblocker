@@ -18460,7 +18460,11 @@ const defaultFilters = [
 "*://*.ogp.me/*",
 "*://*.cdn4ads.com/*",
 "*://*.onepunchmanepisodes.disqus.com/*",
-"*://*.rfihub.com/*"
+"*://*.rfihub.com/*",
+"*://*.c.gumgum.com/*",
+"*://*.zem.outbrainimg.com/*",
+"*://*.content.internetvideoarchive.com/*",
+"*://*.video.trontv.com/*"
 ] 
 chrome.webRequest.onBeforeRequest.addListener(
     function(details) { return { cancel: true }},
