@@ -19,4 +19,4 @@ Microsoft Edge:
 And your done
 
 Firefox:
-Link: https://addons.mozilla.org/en-US/firefox/addon/light-version-ad-blocker/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search
+Link: https://addons.mozilla.org/en-US/firefox/addon/light-version-ad-blocker/
