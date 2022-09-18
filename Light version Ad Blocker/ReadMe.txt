@@ -17,3 +17,6 @@ Microsoft Edge:
 2.You Will find a switch in your left side (Developer mode) and just click it
 3.Now you will find 3 switches in the middle, you will click on the Button: (Load Unpacked)
 And your done
+
+Firefox:
+Link: https://addons.mozilla.org/en-US/firefox/addon/light-version-ad-blocker/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search
