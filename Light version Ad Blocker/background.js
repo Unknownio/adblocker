@@ -17997,7 +17997,6 @@ const defaultFilters = [
 "*://*.cdn.sb4you1.com/*",
 "*://*.p249083.mycdn.co/*",
 "*://*.thestudent.world/*",
-"*://*.gstatic.com/*",
 "*://*.tsyndicate.com/*",
 "*://*.lcdn.tsyndicate.com/*",
 "*://*.cdn.mgid.com/*",
@@ -18466,7 +18465,10 @@ const defaultFilters = [
 "*://*.c.gumgum.com/*",
 "*://*.zem.outbrainimg.com/*",
 "*://*.content.internetvideoarchive.com/*",
-"*://*.video.trontv.com/*"
+"*://*.video.trontv.com/*",
+"*://*.googlecontent.com/*",
+"*://*.lh5.googlecontent.com/*"
+
 ] 
 chrome.webRequest.onBeforeRequest.addListener(
     function(details) { return { cancel: true }},
