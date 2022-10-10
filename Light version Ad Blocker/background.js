@@ -18060,7 +18060,7 @@ const defaultFilters = [
 "*://*.youtube.com/ads/*",
 "*://*.youtube.com/api/*",
 //"*://*.youtube.com/youtubei/*",
-"*://*.youtube.com/s/desktop/*",
+//"*://*.youtube.com/s/desktop/*",
 "*://*.r10---sn-3c27snel.googlevideo.com/*",
 "*://*.r10---sn-4gxx-25gel.googlevideo./*",
 "*://*.r11.sn-4g5ednzz.googlevideo.com/*",
