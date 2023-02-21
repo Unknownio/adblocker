@@ -1,3 +1,4 @@
+
 # Adblocker Test Results
 <p align="center">
   <a href='license'><img src='https://raster.shields.io/badge/License-AGPL3.0%20LIcense-16c60c.svg?style=for-the-badge'></a>
@@ -10,3 +11,9 @@
 2.https://adblock-tester.com/
 ![](https://user-images.githubusercontent.com/62576440/156704433-94601af9-e3b7-4c8c-a050-18592474c59f.png)
 
+# Problems:
+-on youtube it could happen sometimes to not block the ads, but i will fix that
+-
+-Maybe in the future i will add GUI
+-
+-But as for now the adblocker works good on other websites
