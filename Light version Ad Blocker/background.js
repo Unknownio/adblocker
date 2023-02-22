@@ -2776,7 +2776,7 @@ const defaultFilters = [
 "*://*.play.google.com/*",
 "*://*.fonts.gstatic.com/s/*",
 "*://*.googleusercontent.com/*",
-//ova e problemot za login google"*://*.gstatic.com/*", i "*://*.ssl.gstatic.com/accounts/static*",
+//ova e problemot za login google "*://*.gstatic.com/*", i "*://*.ssl.gstatic.com/accounts/static*",
 "*://*.tpc.googlesyndication.com/*",
 "*://*.googleapis.com/*",
 "*://*.fonts.googleapis.com/*",
@@ -3214,7 +3214,9 @@ const defaultFilters = [
 "*://*.content.internetvideoarchive.com/*",
 "*://*.video.trontv.com/*",
 "*://*.googlecontent.com/*",
+"*://*.lh4.googleusercontent.com/*",
 "*://*.lh5.googlecontent.com/*",
+"*://*.lh6.googleusercontent.com/*",
 "*://*.outbrain.com/*",
 "*://*.analytics.supplyframe.com/"
 ] 
