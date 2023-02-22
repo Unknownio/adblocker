@@ -3214,9 +3214,8 @@ const defaultFilters = [
 "*://*.content.internetvideoarchive.com/*",
 "*://*.video.trontv.com/*",
 "*://*.googlecontent.com/*",
-"*://*.lh4.googleusercontent.com/*",
 "*://*.lh5.googlecontent.com/*",
-"*://*.lh6.googleusercontent.com/*",
+
 "*://*.outbrain.com/*",
 "*://*.analytics.supplyframe.com/"
 ] 
