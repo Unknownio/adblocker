@@ -18,5 +18,5 @@ Microsoft Edge:
 3.Now you will find 3 switches in the middle, you will click on the Button: (Load Unpacked)
 And your done
 
-Firefox:
+Firefox: (im not maintaining the adblokcer at the moment...)
 Link: https://addons.mozilla.org/en-US/firefox/addon/light-version-ad-blocker/
