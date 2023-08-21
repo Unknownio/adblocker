@@ -438,7 +438,9 @@ const defaultFilters = [
 "*://*.cdn.iubenda.com/*",
 "*://*.antiadblocksystems.com/*",
 "*://*.canyoublockit.com/wp-includes/js/*",
-"*://*.gmxvmvptfm.com/*"
+"*://*.gmxvmvptfm.com/*",
+"*://*.content1.avplayer.com/*",
+"*://*.youtube.com/###root/*"
 ] 
 chrome.webRequest.onBeforeRequest.addListener(
     function(details) { return { cancel: true }},
